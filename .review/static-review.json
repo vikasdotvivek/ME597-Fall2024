@@ -1,0 +1,216 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/ME597-Fall2024",
+  "revision": "6920371b5110ad8ea1bf8b3ec3c66c177342c732",
+  "tracked_files": 45,
+  "scanned": [
+    {
+      "path": "1-ROS_2_Basics/Resources/1-Lecture/Demo_1/main.cpp",
+      "lines": 8,
+      "bytes": 129
+    },
+    {
+      "path": "1-ROS_2_Basics/Resources/1-Lecture/Demo_2/src/CMakeLists.txt",
+      "lines": 4,
+      "bytes": 137
+    },
+    {
+      "path": "1-ROS_2_Basics/Resources/1-Lecture/Demo_2/src/main.cpp",
+      "lines": 8,
+      "bytes": 129
+    },
+    {
+      "path": "4-Navigation/Resources/auto_navigator.py",
+      "lines": 143,
+      "bytes": 5448
+    },
+    {
+      "path": "4-Navigation/Resources/turtlebot4_navigator.launch.py",
+      "lines": 38,
+      "bytes": 1446
+    },
+    {
+      "path": "4-Navigation/Resources/view_robot.launch.py",
+      "lines": 94,
+      "bytes": 3222
+    }
+  ],
+  "skipped": [
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": ".gitignore",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/0-Instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/1-OS_installation_guide.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/2-ROS_2_installation_guide.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/3-Basic_commands.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/Resources/ME597_ROS_2_commands.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/Resources/ME597_linux_commands.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/Resources/ROS2-Command-Cheat-Sheets-updated.pdf",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "0-Setup/Resources/References.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "0-Setup/Resources/Software_pkg_&_OS.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "1-ROS_2_Basics/1-Lab_1_instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "1-ROS_2_Basics/2-Lecture_ROS_2_fundamentals_1.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "1-ROS_2_Basics/3-Lecture_ROS_2_fundamentals_2.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "1-ROS_2_Basics/4-ROS_2_workspaces.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "1-ROS_2_Basics/Resources/1-Lecture/Demo_1/Instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "1-ROS_2_Basics/Resources/1-Lecture/Demo_1/my_executable",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "1-ROS_2_Basics/Resources/1-Lecture/Demo_2/Instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/1-Lab_2_instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Autograder_Submission_Instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Resources/5-Turtlebot4_use.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Resources/TurtleBot4_installation_guide.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Resources/images/PIDDistanceControllerDiagram.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Resources/images/TB3_laserscan.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Resources/images/vmware-bridged-network-adapter-debug.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Resources/images/vmware-bridged-network-adapter-working.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "2-Kinematics_&_Control/Resources/images/vmware-bridged-network-adapter.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "3-Perception/1-Lab_3_instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "3-Perception/Resources/OpenCV_ROS2.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "3-Perception/Resources/OpenCV_installation.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "3-Perception/Resources/images/OpenCVROS.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "3-Perception/Resources/images/rqt_image_view.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "3-Perception/vmware_expand_storage.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "4-Navigation/1-Lab_4_instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "4-Navigation/Resources/navigation_astar_f24.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "4-Navigation/Resources/robot.rviz",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "5-Final_Project/1-Turtlebot_Instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "5-Final_Project/2-Final_VRX_Instructions.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [
+    "1-ROS_2_Basics/Resources/1-Lecture/Demo_2/src/CMakeLists.txt"
+  ],
+  "conventional_test_paths": [],
+  "findings": [
+    {
+      "rule": "silent-except",
+      "priority": "P2",
+      "path": "4-Navigation/Resources/auto_navigator.py",
+      "line": 135,
+      "title": "Exception handler only passes",
+      "recommendation": "Decide whether the error is recoverable; surface nonrecoverable failures instead of silently continuing.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/ME597-Fall2024/blob/6920371b5110ad8ea1bf8b3ec3c66c177342c732/4-Navigation/Resources/auto_navigator.py#L135"
+    }
+  ],
+  "total_findings": 1,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
